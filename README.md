@@ -1,3 +1,3 @@
-# Logica_de_Programacao_Basica
- Váriaveis - Como guardar valores e fazer contas
+# Logica_de_Programacao_Basic
  Tipos de Varáveis
+ Váriaveis - Como guardar valores e fazer contas
